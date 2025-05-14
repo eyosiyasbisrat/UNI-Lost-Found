@@ -1,4 +1,4 @@
-# UNI-Lost-Found
+# UNI-Lost-and-Found
 
 ## Project Description
 
